@@ -24,5 +24,6 @@ Machine learning shows promise in early hypothyroidism detection, with Random Fo
 
 ### Visuals
 
-![Score](images/score.png)
+<img src="images/score.png" alt="Score" width="500"/>
+
 
